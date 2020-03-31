@@ -4,7 +4,6 @@
   "description": "An awesome p5js sketch, generated with sketching",
   "main": "index.js",
   "scripts": {
-    "cleanup": "rm -rf .cache dist",
     "start": "parcel serve ./src/index.html --open",
     "build": "parcel build ./src/index.html --no-source-maps --public-url ./"
   },

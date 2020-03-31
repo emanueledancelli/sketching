@@ -1,7 +1,7 @@
 {
   "name": "sketching",
   "version": "1.0.0",
-  "description": "A cli tool to quickly create p5js projects",
+  "description": "A cli tool to quickly scaffold p5js projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\""

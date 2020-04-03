@@ -1,5 +1,7 @@
 # sketching
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 > p5js projects scaffolding node cli tool
 
 Easily create new projects in p5js. Be faster iterating ideas with the addition of hot module reloading. Release a more optimized sketch with automatic code bundling and code splitting.

@@ -6,6 +6,8 @@
 
 Easily create new projects in p5js. Be faster iterating ideas with the addition of hot module reloading. Release a more optimized sketch with automatic code bundling and code splitting.
 
+&nbsp;
+
 ## Description
 
 Scaffolds a new project featuring [parcel](https://parceljs.org/) and [p5js](https://p5js.org/).
@@ -13,6 +15,8 @@ Scaffolds a new project featuring [parcel](https://parceljs.org/) and [p5js](htt
 - Creates a new directory for the project.
 - Copies template files and installs dependencies through npm.
 - Provides two scripts to start using the template right away.
+
+&nbsp;
 
 ## Installation
 
@@ -29,6 +33,8 @@ or
 ```shell
 npm install --global sketching
 ```
+
+&nbsp;
 
 ## Usage
 
@@ -52,6 +58,8 @@ sketching 1.0.0
      -v, --verbose      Verbose mode - will also output debug messages
 ```
 
+&nbsp;
+
 ## Built with
 
 The tool is build with [node.js](https://nodejs.org/en/) and the help of a few other libraries.
@@ -68,9 +76,13 @@ Template:
 - [p5js](https://p5js.org/)
 - [parcel](https://parceljs.org/)
 
+&nbsp;
+
 ## Credits
 
 Emanuele Dancelli - emanueledancelli@gmail.com
+
+&nbsp;
 
 ## License
 

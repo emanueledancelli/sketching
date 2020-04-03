@@ -1,23 +1,20 @@
-# an-awesome-sketch
+This project was bootstrapped with [sketching](https://github.com/emanueledancelli/sketching).
 
-template project folder created with sketching
+## Available Scripts
 
-## Usage
-
-The template provides two scripts:
-
-1)
+In the project directory, you can run:
 
 ```shell
 npm run start
 ```
 
-Starts the server on that will listen to changes to files and autamatically update accordingly.
-
-2)
+Runs the project in the development mode and opens it in the browser.<br />
+The page will reload if you make edits.<br />
 
 ```shell
 npm run build
 ```
 
-Creates an optimized build in /build folder.
+Builds the app for production to the `build` folder.<br />
+It correctly bundles files and optimizes the build for the best performance<br />
+The build is minified.<br />

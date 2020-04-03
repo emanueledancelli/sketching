@@ -4,13 +4,17 @@
 
 Easily create new projects in p5js. Be faster iterating ideas with the addition of hot module reloading. Release a more optimized sketch with automatic code bundling and code splitting.
 
-## Highlights
+## Description
 
-- creates a new directory for the project.
-- copies template files and installs dependencies through npm.
-- provides two scripts to start using the template right away.
+Scaffolds a new project featuring [parcel](https://parceljs.org/) and [p5js](https://p5js.org/).
+
+- Creates a new directory for the project.
+- Copies template files and installs dependencies through npm.
+- Provides two scripts to start using the template right away.
 
 ## Installation
+
+Be sure to have [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed on your machine before starting.
 
 OS X & Linux:
 
@@ -48,6 +52,8 @@ sketching 1.0.0
 
 ## Built with
 
+The tool is build with [node.js](https://nodejs.org/en/) and the help of a few other libraries.
+
 CLI tool:
 
 - [caporal](https://github.com/mattallty/Caporal.js?)
@@ -60,7 +66,7 @@ Template:
 - [p5js](https://p5js.org/)
 - [parcel](https://parceljs.org/)
 
-## Author
+## Credits
 
 Emanuele Dancelli - emanueledancelli@gmail.com
 

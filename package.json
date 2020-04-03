@@ -1,6 +1,6 @@
 {
   "name": "sketching",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A cli tool to quickly scaffold p5js projects",
   "main": "index.js",
   "scripts": {
